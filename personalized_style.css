@@ -77,7 +77,11 @@ ul.nav li a {
   text-align: center;
 }
 
-
+.grid_3 {
+position: absolute; 
+left: 350px; 
+top: 450px; 
+}
 
 
 
