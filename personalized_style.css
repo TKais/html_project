@@ -68,9 +68,10 @@ ul.nav li a {
   text-align: center;
 }
 
-#grid_8 omega h1 {
+#grid_8 h1 {
   float: right;
-  margin: 0 auto;
+  border-radius:3px;
+  padding-left:3px;
 }
 
 
