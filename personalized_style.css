@@ -38,7 +38,8 @@ h3 {
 }
 
 .btn:hover {
-  background-color: #4CC4A7;
+  background-color: #bdbdbd;
+  color: white;
 }
 
 ul.nav {
@@ -57,7 +58,7 @@ ul.nav li a {
   color: #FAF3BC;
 }
 
-#intro {
+#button {
   margin: 50px 0 75px 0;
 }
 
@@ -66,8 +67,9 @@ ul.nav li a {
   margin: 0 0 20px 0;
 }
 
-#featured-cupcake img {
+#love img {
   border: 8px solid #FAF3BC;
+  padding: 50px;
 }
 
 #copyright {
@@ -77,11 +79,7 @@ ul.nav li a {
   text-align: center;
 }
 
-.grid_3 {
-position: absolute; 
-left: 350px; 
-top: 450px; 
-}
+
 
 
 
