@@ -1,7 +1,8 @@
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   color: #FAF3BC;
-  background: #420600 url('img/bg-texture.jpg') repeat;
+  background: #102e37 url('img/bg-texture.jpg') repeat;
+  font-size: 150%;
 }
 
 a {
